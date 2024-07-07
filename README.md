@@ -1,2 +1,2 @@
-6/28/2024 Assignment 
+An exercise concerning objects and arrays. 
 _Day
